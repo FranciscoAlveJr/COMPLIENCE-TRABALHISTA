@@ -5,13 +5,13 @@ Este é um bot para extração de dados do site Jusbrasil, que trata de processo
 Primeiramente, o bot lê uma planilha pré-formatada contendo nomes de empresas que o usuário quer pesquisar. Depois, ele abre o navegador automático para acessar o site Jusbrasil e preenche, automaticamente, os campos para a pesquisa. Ao encontrar os processos referentes a empresa, ele faz uma varredura no site para encontrar os dados disponíveis, fazendo a extração.<br><br> Os dados extraídos, então, são salvos em um banco de dados, para que possam ser devidamente tratados e, por fim, serem salvos em uma nova planilha em Excel.
 
 ## TECNOLOGIAS UTILIZADAS
-- [Python 3.11](https://www.python.org/)
-- [Pandas 2.2.2](https://pandas.pydata.org/)
-- [Selenium 4.20.0](https://www.selenium.dev/)
-- [SQLite3](https://www.sqlite.org/)
-- [SQLAlchemy 2.0.29](https://www.sqlalchemy.org/)
+- [Python 3.11](https://www.python.org/) (Linguagem de Programação)
+- [Pandas 2.2.2](https://pandas.pydata.org/) (Tratamento de dados)
+- [Selenium 4.20.0](https://www.selenium.dev/) (Automação de navegador)
+- [SQLite3](https://www.sqlite.org/) (Armazenamento de dados)
+- [SQLAlchemy 2.0.29](https://www.sqlalchemy.org/) (Leitura de dados)
 
-## PASTA INPUT
+## PRIMEIRO PASSO
 O usuário coloca o arquivo Excel dentro da pasta input, onde será lido pelo programa.
 ![20240511_183018](https://github.com/FranciscoAlveJr/COMPLIENCE-TRABALHISTA/assets/65497402/9b4aca9a-8840-4fe6-9a83-a137e1a7f2cb)
 

@@ -24,7 +24,7 @@ Ao ser executado, o programa abre um terminal onde fará a inicialização. Logo
 Após extrair os dados dos processos de todas as empresas lidas na planilha de origem, o arquivo "Processos Jusbrasil.xlsx" será salvo na pasta output, contendo a planilha com todos os dados extraídos.
 
 ![dados ](https://github.com/FranciscoAlveJr/COMPLIENCE-TRABALHISTA/assets/65497402/2f71260f-1f09-48f2-bde8-62f07860bf21)<br>
-Enquanto o programa está rodando, a pasta output mantém o arquivo de banco de dados e arquivos de índice, para o programa continue de onde parou, caso seja interrompido.
+Enquanto o programa está rodando, a pasta output mantém o arquivo de banco de dados e arquivos de índice, para que o programa continue de onde parou, caso seja interrompido.
 
 *******
 
@@ -34,6 +34,6 @@ Depois de terminar o trabalho, o bot substitui os arquivos de dados pelo arquivo
 *******
 
 ![planilha final](https://github.com/FranciscoAlveJr/COMPLIENCE-TRABALHISTA/assets/65497402/19f3263b-c7a5-449e-942a-4d3fabddbd9f)<br>
-A planilha salva no final do trabalho.
+Como fica a planilha no final do trabalho.
 
 

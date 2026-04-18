@@ -1,7 +1,7 @@
 # COMPLIENCE TRABALHISTA
 
 ## DESCRIÇÃO
-Este é um bot para extração de dados do site Jusbrasil, que trata de processos de diversas empresas.<br><br>
+Este é um RPA(Robotic Process Automation) para extração de dados do site Jusbrasil, que trata de processos de diversas empresas.<br><br>
 Primeiramente, o bot lê uma planilha pré-formatada contendo nomes de empresas que o usuário quer pesquisar. Depois, ele abre o navegador automático para acessar o site Jusbrasil e preenche, automaticamente, os campos para a pesquisa. Ao encontrar os processos referentes a empresa, ele faz uma varredura no site para encontrar os dados disponíveis, fazendo a extração.<br><br> Os dados extraídos, então, são salvos em um banco de dados, para que possam ser devidamente tratados e, por fim, serem salvos em uma nova planilha em Excel.
 
 ## TECNOLOGIAS UTILIZADAS
